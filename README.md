@@ -1,1 +1,1 @@
-# Python Data Analytics: Investigating Adult Income
+# Python Data Analytics: Investigating Annual Income
